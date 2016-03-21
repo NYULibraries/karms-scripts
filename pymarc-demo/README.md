@@ -1,1 +1,1 @@
-This directory contains files related to the PyMARC presentation given for KARMS 101.
+This directory contains files related to the Python/PyMARC presentation and demo given by Heidi Frank for KARMS 101, including the PowerPoint presentation slides, the Python script "demo.py", and the sample input file of raw binary MARC records "my_marc_recs_in.mrc".
